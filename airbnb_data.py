@@ -3,7 +3,7 @@
 import pandas as pd
 
 # Load dataset
-file_path = "https://gitlab.crio.do/me_notebook/me_jupyter_airbnbanalysis/-/raw/master/Airbnb_data.csv"
+file_path = "Airbnb_data.csv"
 df = pd.read_csv(file_path)
 
 
